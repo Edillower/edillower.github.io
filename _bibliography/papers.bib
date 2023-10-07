@@ -3,82 +3,106 @@
 
 @string{aps = {American Physical Society,}}
 
-@book{einstein1956investigations,
-  bibtex_show={true},
-  title={Investigations on the Theory of the Brownian Movement},
-  author={Einstein, Albert},
-  year={1956},
-  publisher={Courier Corporation},
-  preview={brownian-motion.gif}
+@inproceedings{wang-etal-2023-faithful,
+    title = "Faithful Low-Resource Data-to-Text Generation through Cycle Training",
+    author = "Wang, Zhuoer  and
+      Collins, Marcus  and
+      Vedula, Nikhita  and
+      Filice, Simone  and
+      Malmasi, Shervin  and
+      Rokhlenko, Oleg",
+    booktitle = "Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = jul,
+    year = "2023",
+    address = "Toronto, Canada",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.acl-long.160",
+    pages = "2847--2867",
+    abstract = "Methods to generate text from structured data have advanced significantly in recent years, primarily due to fine-tuning of pre-trained language models on large datasets. However, such models can fail to produce output faithful to the input data, particularly on out-of-domain data. Sufficient annotated data is often not available for specific domains, leading us to seek an unsupervised approach to improve the faithfulness of output text. Since the problem is fundamentally one of consistency between the representations of the structured data and text, we evaluate the effectiveness of cycle training in this work. Cycle training uses two models which are inverses of each other: one that generates text from structured data, and one which generates the structured data from natural language text. We show that cycle training, when initialized with a small amount of supervised data (100 samples in our case), achieves nearly the same performance as fully supervised approaches for the data-to-text generation task on the WebNLG, E2E, WTQ, and WSQL datasets. We perform extensive empirical analysis with automated evaluation metrics and a newly designed human evaluation schema to reveal different cycle training strategies{'} effectiveness of reducing various types of generation errors.Our code is publicly available at https://github.com/Edillower/CycleNLG.",
+    abbr={ACL},
+    code={https://github.com/Edillower/CycleNLG},
+    pdf={Faithful_Low_Resource_Data_to_Text_Generation_through_Cycle_Training.pdf},
+    arxiv={2305.14793},
+    slides={ACL203-6min.pdf},
+    poster={ACL2023-poster.pdf},
+    selected={true},
+    bibtex_show={true}
 }
 
-@article{einstein1950meaning,
-  abbr={AJP},
-  bibtex_show={true},
-  title={The meaning of relativity},
-  author={Einstein, Albert and Taub, AH},
-  journal={American Journal of Physics},
-  volume={18},
-  number={6},
-  pages={403--404},
-  year={1950},
-  publisher={American Association of Physics Teachers}
+@Inproceedings{howdyyall-2022,
+    author = {Texas A&M University},
+    title = {Howdy Y’all: An Alexa TaskBot},
+    year = {2022},
+    html = {https://www.amazon.science/alexa-prize/proceedings/howdy-yall-an-alexa-taskbot},
+    booktitle = {Alexa Prize TaskBot Challenge Proceedings},
+    abstract = "In this paper, we present Howdy Y’all, a multi-modal task-oriented dialogue agent developed for the 2021-2022 Alexa Prize TaskBot competition. Our design principles guiding Howdy Y’all aim for high user satisfaction through friendly and trustworthy encounters, minimization of negative conversation edge cases, and wide coverage over many tasks. Hence, Howdy Y’all is built upon a rapid prototyping platform to enable fast experimentation and powered by four key innovations to enable this vision: (i) First, it combines a rules, phonetic matching, and a transformer-based approach for robust intent understanding. (ii) Second, to accurately elicit user preferences and guide users to the right task, Howdy Y’all is powered by a contrastive learning search framework over sentence embeddings and a conversational recommender for eliciting preferences. (iii) Third, to support a variety of user question types, it introduces a new data augmentation method for question generation and a self-supervised answer selection approach for improving question answering. (iv) Finally, to help motivate our users and keep them engaged, we design an emotional conversation tracker that provides empathetic responses to keep users engaged and a monitor of conversation quality.",
+    selected={true},
+    abbr={ALEXA},
+    pdf={howdy-yall-an-alexa-taskbot.pdf},
+    bibtex_show={true}
 }
 
-@article{PhysRev.47.777,
-  abbr={PhysRev},
-  title={Can Quantum-Mechanical Description of Physical Reality Be Considered Complete?},
-  author={Einstein, A. and Podolsky, B. and Rosen, N.},
-  abstract={In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.},
-  journal={Phys. Rev.},
-  volume={47},
-  issue={10},
-  pages={777--780},
-  numpages={0},
-  year={1935},
-  month={May},
-  publisher=aps,
-  doi={10.1103/PhysRev.47.777},
-  url={http://link.aps.org/doi/10.1103/PhysRev.47.777},
-  html={https://journals.aps.org/pr/abstract/10.1103/PhysRev.47.777},
-  pdf={example_pdf.pdf},
-  altmetric={248277},
-  dimensions={true},
-  selected={true}
+@inproceedings{wang-etal-2022-res,
+    title = "RES: An Interpretable Replicability Estimation System for Research Publications",
+    author = "Wang, Zhuoer and Feng, Qizhang and Chatterjee, Mohinish and Zhao, Xing and Liu, Yezi and Li, Yuening and Singh, Abhay Kumar and Shipman, Frank M. and Hu, Xia and Caverlee, James",
+    booktitle = "AAAI",
+    year = "2022",
+    abstract = "Reliable and faithful research is the cornerstone of breakthrough advancements and disruptive innovations. Assessing the credibility of scientific findings and claims in research publications has long been a time-consuming and challenging task for researchers and decision-makers. In this paper, we introduce RES - an intelligent system that assists humans in analyzing the credibility of scientific findings and claims in research publications in the field of social and behavioral sciences by estimating their replicability. The pipeline of RES consists of four major modules that perform feature extraction, replicability estimation, result explanation, and sentiment analysis respectively. Our evaluation based on human experts' assessments suggests that the RES has achieved adequate performance. The RES is also built with a Graphical User Interface (GUI) that is publicly accessible at https://tamu-infolab.github.io/RES",
+    abbr={AAAI},
+    html={https://tamu-infolab.github.io/RES/},
+    selected={true},
+    pdf={21737-Article Text-25750-1-2-20220628.pdf},
+    poster={AAAI2022-poster.pdf},
+    bibtex_show={true}
 }
 
-@article{einstein1905molekularkinetischen,
-  title={{\"U}ber die von der molekularkinetischen Theorie der W{\"a}rme geforderte Bewegung von in ruhenden Fl{\"u}ssigkeiten suspendierten Teilchen},
-  author={Einstein, A.},
-  journal={Annalen der physik},
-  volume={322},
-  number={8},
-  pages={549--560},
-  year={1905},
-  publisher={Wiley Online Library}
+@article{wu2021predicting,
+  title={Predicting the Reproducibility of Social and Behavioral Science Papers Using Supervised Learning Models},
+  author={Wu, Jian and Nivargi, Rajal and Lanka, Sree Sai Teja and Menon, Arjun Manoj and Modukuri, Sai Ajay and Nakshatri, Nishanth and Wei, Xin and Wang, Zhuoer and Caverlee, James and Rajtmajer, Sarah M and Giles, C. Lee},
+  journal={arXiv preprint arXiv:2104.04580},
+  year={2021},
+  abbr={arXiv},
+  abstract={In recent years, significant effort has been invested verifying the reproducibility and robustness of research claims in social and behavioral sciences (SBS), much of which has involved resource-intensive replication projects. In this paper, we investigate prediction of the reproducibility of SBS papers using machine learning methods based on a set of features. We propose a framework that extracts five types of features from scholarly work that can be used to support assessments of reproducibility of published research claims. Bibliometric features, venue features, and author features are collected from public APIs or extracted using open source machine learning libraries with customized parsers. Statistical features, such as p-values, are extracted by recognizing patterns in the body text. Semantic features, such as funding information, are obtained from public APIs or are extracted using natural language processing models. We analyze pairwise correlations between individual features and their importance for predicting a set of human-assessed ground truth labels. In doing so, we identify a subset of 9 top features that play relatively more important roles in predicting the reproducibility of SBS papers in our corpus. Results are verified by comparing performances of 10 supervised predictive classifiers trained on different sets of features.
+  },
+  arxiv={2104.04580},
+  pdf={2104.04580.pdf},
+  bibtex_show={true}
 }
 
-@article{einstein1905movement,
-  abbr={Ann. Phys.},
-  title={Un the movement of small particles suspended in statiunary liquids required by the molecular-kinetic theory 0f heat},
-  author={Einstein, A.},
-  journal={Ann. Phys.},
-  volume={17},
-  pages={549--560},
-  year={1905}
+@inproceedings{he-etal-2020-parade,
+    title = "{PARADE}: {A} {N}ew {D}ataset for {P}araphrase {I}dentification {R}equiring {C}omputer {S}cience {D}omain {K}nowledge",
+    author = "He, Yun  and
+      Wang, Zhuoer  and
+      Zhang, Yin  and
+      Huang, Ruihong  and
+      Caverlee, James",
+    booktitle = "Proceedings of the 2020 Conference on Empirical Methods in Natural Language Processing (EMNLP)",
+    month = nov,
+    year = "2020",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2020.emnlp-main.611",
+    doi = "10.18653/v1/2020.emnlp-main.611",
+    pages = "7572--7582",
+    abstract = "We present a new benchmark dataset called PARADE for paraphrase identification that requires specialized domain knowledge. PARADE contains paraphrases that overlap very little at the lexical and syntactic level but are semantically equivalent based on computer science domain knowledge, as well as non-paraphrases that overlap greatly at the lexical and syntactic level but are not semantically equivalent based on this domain knowledge. Experiments show that both state-of-the-art neural models and non-expert human annotators have poor performance on PARADE. For example, BERT after fine-tuning achieves an F1 score of 0.709, which is much lower than its performance on other paraphrase identification datasets. PARADE can serve as a resource for researchers interested in testing models that incorporate domain knowledge. We make our data and code freely available.",
+    abbr={EMNLP},
+    pdf={2020.emnlp-main.611.pdf},
+    code={https://github.com/heyunh2015/PARADE_dataset},
+    selected={true},
+    bibtex_show={true}
 }
 
-@article{einstein1905electrodynamics,
-  title={On the electrodynamics of moving bodies},
-  author={Einstein, A.},
-  year={1905}
-}
-
-@book{przibram1967letters,
-  bibtex_show={true},
-  title={Letters on wave mechanics},
-  author={Einstein, Albert and Schrödinger, Erwin and Planck, Max and Lorentz, Hendrik Antoon and Przibram, Karl},
-  year={1967},
-  publisher={Vision},
-  preview={wave-mechanics.gif}
+@article{diao2018fault,
+  title={Fault propagation and effects analysis for designing an online monitoring system for the secondary loop of the nuclear power plant portion of a hybrid energy system},
+  author={Diao, Xiaoxu and Zhao, Yunfei and Pietrykowski, Mike and Wang, Zhuoer and Bragg-Sitton, Shannon and Smidts, Carol},
+  journal={Nuclear Technology},
+  volume={202},
+  number={2-3},
+  pages={106--123},
+  year={2018},
+  publisher={Taylor \& Francis},
+  abbr={NT},
+  html={https://www.tandfonline.com/doi/full/10.1080/00295450.2018.1426963},
+  abstract = {This paper studies the propagation and effects of faults in critical components that pertain to the secondary loop of a nuclear power plant found in nuclear hybrid energy systems (NHESs). This information is used to design an online monitoring (OLM) system that is capable of detecting and analyzing faults that are likely to occur during NHES operation. In this research, the causes, features, and effects of possible faults are investigated by simulating the propagation of faults in the secondary loop of a nuclear power plant. The simulation is conducted using Integrated System Failure Analysis (ISFA), a promising method analyzing hardware and software faults during the conceptual design phase. First, the models of system components required by ISFA are constructed. Then, fault propagation analysis is implemented, which is conducted under the bounds set by acceptance criteria derived for the design of an OLM system. The result of the fault simulation is utilized to evaluate the effectiveness of signals for fault detection and diagnosis and to propose an optimization plan for the OLM system. Finally, several experiments are designed and conducted using a hardware-in-the-loop system to verify the correctness and effectiveness of the proposed method.},
+  bibtex_show={true}
 }

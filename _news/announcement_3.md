@@ -1,8 +1,7 @@
 ---
 layout: post
-date: 2016-01-15 07:59:00-0400
+date: 2023-07-10 12:00:00-0400
 inline: true
-related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+<img class="emoji" title=":acl:" alt=":acl:" src="/assets/img/acl.png" height="13.55" width="20">	I'm happy to share that our paper on *Faithful Low-Resource Data-to-Text Generation through Cycle Training* recieved the **Outstanding Paper Award** @ ACL2023.
