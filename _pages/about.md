@@ -3,12 +3,12 @@ layout: about
 title: About
 inline: true
 permalink: /
-description: Ph.D. Candidate - wang at tamu.edu - <a href="https://www.tamu.edu/map/?id=427#!m/387167">Peterson Building</a> 342
+subtitle: Ph.D. Candidate - wang at tamu.edu - <a href="https://www.tamu.edu/map/?id=427#!m/387167">Peterson Building</a> 342
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
+  more_info: >
     <p>Quebec City, Canada 2023</p>
 
 news: true  # includes a list of news items
