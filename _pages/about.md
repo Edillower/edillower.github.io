@@ -8,8 +8,8 @@ profile:
   image: prof_pic.jpg
   more_info: >
     <p>Ph.D. Candidate</p>
-    <p>wang at tamu.edu</p>
-    <p><a href="https://www.tamu.edu/map/?id=427#!m/387167">Peterson Building</a> 342</p>
+    <p>Email: wang at tamu.edu</p>
+    <p>Office: <a href="https://www.tamu.edu/map/?id=427#!m/387167">Peterson Building</a> 342</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
