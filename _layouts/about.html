@@ -12,6 +12,12 @@ layout: default
   </header>
 
   <article>
+    <!-- News -->
+    {% if page.news and site.announcements.enabled -%}
+      <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
+      {%- include news.html limit=true %}
+    {%- endif %}
+  
     {% if page.profile -%}
     <div class="profile float-{%- if page.profile.align == 'left' -%}left{%- else -%}right{%- endif -%}">
       {%- if page.profile.image %}
@@ -42,6 +48,7 @@ layout: default
     </div>
 
     {% if page.selected_papers %}
+      <h2><a href="{{ '/publications/' | relative_url }}" style="color: inherit;">selected publications</a></h2>
       {% include selected_papers.html %}
       <a href="https://edillower.github.io/publications/"><b><u>Full Publication List</u></b></a>
       <br />
@@ -52,14 +59,18 @@ layout: default
       {% include services.html %}
     {% endif %}
 
-    {% if page.social %}
-    <div class="social">
-      <div class="contact-icons">
-        {% include social.html %}
+    {%- if page.social %}
+      <div class="social">
+        <div class="contact-icons">
+          {% include social.html %}
+        </div>
+
+        <div class="contact-note">
+          {{ site.contact_note }}
+        </div>
+
       </div>
-      <div class="contact-note">{{ site.contact_note }}</div>
-    </div>
-    {% endif %}
+    {%- endif %}
   </article>
 
 </div>
