@@ -4,6 +4,7 @@ permalink: /experience/
 title: Experience
 description: 
 nav: true
+nav_order: 3
 inline: true
 ---
 
