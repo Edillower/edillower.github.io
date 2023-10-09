@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Howdy! 
 
-I'm a Ph.D. student in the <a href="https://engineering.tamu.edu/cse/index.html">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University</a>, and a member of the <a href="http://infolab.tamu.edu/">InfoLab</a> supervised by <a href="https://people.engr.tamu.edu/caverlee/index.html">Prof. James Caverlee</a>. 
+I'm a Ph.D. student in the <a href="https://engineering.tamu.edu/cse/index.html">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University</a>, and I'm a member of the <a href="http://infolab.tamu.edu/">InfoLab</a> advised by <a href="https://people.engr.tamu.edu/caverlee/index.html">Prof. James Caverlee</a>. 
 
 I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AlexaAI @ Amazon Lab126, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
 
