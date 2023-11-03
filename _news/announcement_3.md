@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-10 12:00:00-0400
+date: 2023-10-07 12:00:00-0400
 inline: true
 ---
 
-<img class="emoji" title=":acl:" alt=":acl:" src="/assets/img/acl.png" height="13.55" width="20">	I'm happy to share that our paper on *Faithful Low-Resource Data-to-Text Generation through Cycle Training* recieved the **Outstanding Paper Award** @ ACL2023.
+<img class="emoji" title=":merlion:" alt=":merlion:" src="/assets/img/merlion.png" height="20" width="20"> Two papers accepted to EMNLP 2023, see you in Singapore! Credits and many thanks to Cav and other collaborators.

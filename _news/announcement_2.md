@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-02-10 12:00:00-0400
+date: 2023-07-10 12:00:00-0400
 inline: true
 ---
 
-<img class="emoji" title=":amazon_icon:" alt=":amazon_icon:" src="/assets/img/amazon_icon.png" height="20" width="20">	I will take an Applied Scientist intern with the Alexa AI - NLU group at Amazon's Sunnyvale office this autumn.
+<img class="emoji" title=":acl:" alt=":acl:" src="/assets/img/acl.png" height="13.55" width="20">	I'm happy to share that our paper on *Faithful Low-Resource Data-to-Text Generation through Cycle Training* recieved the **Outstanding Paper Award** @ ACL2023.
