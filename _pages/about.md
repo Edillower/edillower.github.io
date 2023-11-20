@@ -21,7 +21,7 @@ Howdy!
 
 I'm a Ph.D. student in the <a href="https://engineering.tamu.edu/cse/index.html">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University</a>, and I'm a member of the <a href="http://infolab.tamu.edu/">InfoLab</a> advised by <a href="https://people.engr.tamu.edu/caverlee/index.html">Prof. James Caverlee</a> since 2020. 
 
-I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AlexaAI @ Amazon Lab126, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
+I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AGI Foundation Models @ Amazon, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
 
 My research interests are Natural Language Understanding and Generation, Faithfulness and Factual Correctness of the Generation, Unsupervised/Self-supervised Learning, and AI Applications. 
 

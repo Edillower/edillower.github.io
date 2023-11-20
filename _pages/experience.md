@@ -28,7 +28,7 @@ Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Co
 <br />
 <br />
 
-<h4>AlexaAI @ Amazon</h4>
+<h4>AGI Foundation Models @ Amazon</h4>
 
 <b>Applied Scientist Intern</b> (Aug. 2023 - Present)
 
