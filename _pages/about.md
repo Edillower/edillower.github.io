@@ -24,5 +24,3 @@ I'm a Ph.D. student in the <a href="https://engineering.tamu.edu/cse/index.html"
 I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AGI Foundational Models @ Amazon, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
 
 My research interests are Natural Language Understanding and Generation, Faithfulness and Factual Correctness of the Generation, Unsupervised/Self-supervised Learning, and AI Applications. 
-
-I'm looking for full-time and internship opportunities that start in 2024 - drop me a message if you have openings available!  
