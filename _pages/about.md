@@ -26,4 +26,4 @@ I received my Bachelor's degree in Computer Science and Engineering from <a href
 My research interests are Natural Language Understanding and Generation, Faithfulness and Factual Correctness of the Generation, Unsupervised/Self-supervised Learning, and AI Applications. My recent research focuses on:
 
 1. Data-efficient self-supervised / unsupervised learning methods for better NLU and NLG (ACL2023-OutstandingPaper, EMNLP2023-Findings) 
-2. Computing-efficient decoding algorithms for training cost reduction, inference speed improvement, and faithfulness/factuality improvement of LLM's generation (two papers in preparation) 
+2. Compute-efficient decoding algorithms for training cost reduction, inference speed improvement, and faithfulness/factuality improvement of LLM's generation (two papers in preparation) 
