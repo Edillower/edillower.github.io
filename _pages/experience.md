@@ -32,6 +32,7 @@ Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Co
 
 <b>Applied Scientist Intern</b> (Aug. 2023 - Dec. 2023)
 
+FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking
 
 
 <br />

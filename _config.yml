@@ -103,7 +103,7 @@ zotero_username: # your zotero username
 wechat_qr: # filename of your wechat qr-code saved as an image (e.g., wechat-qr.png if saved to assets/img/wechat-qr.png)
 
 contact_note: >
-  Do cool things that matter!!!<br><div style="display:none;"><script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=jpFmUCMc-8JwK_tPI7UcqUmc3kB-8G9tljFBryp3q5c&cl=ffffff&w=a"></script></div>
+  Do cool things that matter!!!<br><div style="display:none;"><script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=OlY1X2qc3i5VF1HMnXRyLZKD8TTWHn8mJHdhpS42Trw&cl=ffffff&w=a"></script></div>
 
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
