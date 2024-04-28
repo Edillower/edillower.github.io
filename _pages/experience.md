@@ -89,6 +89,8 @@ Fault propagation and effects analysis for designing an online monitoring system
 
 <b>Student Instructional Assistant</b>
 
+CSCE420 - Artificial Intelligence and CSCE310 - Database Systems (Spring 2024)
+
 CSE3241 - Introduction to Database System (Autumn 2016, Spring 2017) 
 
 CSE2231 - Software II: Software Development and Design (Spring 2015) 
