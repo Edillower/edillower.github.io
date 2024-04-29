@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Howdy! 
 
-I'm a Ph.D. student in the <a href="https://engineering.tamu.edu/cse/index.html">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University</a>, and I'm a member of the <a href="http://infolab.tamu.edu/">InfoLab</a> advised by <a href="https://people.engr.tamu.edu/caverlee/index.html">Prof. James Caverlee</a> since 2020. 
+I'm a final year Ph.D. candidate in the <a href="https://engineering.tamu.edu/cse/index.html">Department of Computer Science and Engineering</a> at <a href="https://www.tamu.edu/">Texas A&M University</a>, and I'm a member of the <a href="http://infolab.tamu.edu/">InfoLab</a> advised by <a href="https://people.engr.tamu.edu/caverlee/index.html">Prof. James Caverlee</a> since 2020. 
 
 I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AGI Foundational Models @ Amazon, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
 
@@ -27,3 +27,5 @@ My research interests are Natural Language Understanding and Generation, Faithfu
 
 1. Data-efficient self-supervised / unsupervised learning methods for better NLU and faithful NLG (ACL2023-OutstandingPaper, EMNLP2023-Findings) 
 2. Compute-efficient methods for training cost reduction, inference speed improvement, and faithfulness/factuality improvement of LLM's generation (1 paper under review, 1 paper in preparation) 
+
+<div style="color:red;">I'm looking for full-time research/applied scientist position - drop me a message if you have openings available!</div>
