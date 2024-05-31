@@ -24,6 +24,16 @@ Unsupervised Candidate Answer Extraction through Differentiable Masker-Reconstru
 
 Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning
 
+<br />
+<br />
+
+<h4>Office of Applied Research @ Microsoft</h4>
+
+<b>Research Intern</b> (May 2024 - Aug. 2024)
+
+Learning from User Feedback for Copilot Optimization
+
+Faithful User Response Simulation through Personalized and Controllable Generation
 
 <br />
 <br />
