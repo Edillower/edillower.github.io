@@ -29,7 +29,7 @@ Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Co
 
 <h4>Office of Applied Research @ Microsoft</h4>
 
-<b>Research Intern</b> (May 2024 - Aug. 2024)
+<b>Research Intern</b> (May 2024 - Present)
 
 Learning from User Feedback for Copilot Optimization
 

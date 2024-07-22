@@ -23,10 +23,4 @@ I'm a final year Ph.D. candidate in the <a href="https://engineering.tamu.edu/cs
 
 I received my Bachelor's degree in Computer Science and Engineering from <a href="https://www.osu.edu/">The Ohio State University</a>. I have worked at AGI Foundational Models @ Amazon, Alexa Shopping Research @ Amazon, the SSC Research Group @ TAMU, the NLP Group @ TAMU, the Reliability and Risk Laboratory @ OSU on <a href="https://edillower.github.io/experience/">various projects</a>. 
 
-My research interests are Natural Language Understanding and Generation, Faithfulness and Factual Correctness of the Generation, Unsupervised/Self-supervised Learning, and AI Applications. My recent research focuses on:
-
-1. Data-efficient self-supervised / unsupervised learning methods for better NLU and faithful NLG (ACL2023-OutstandingPaper, EMNLP2023-Findings) 
-2. Compute-efficient methods for training cost reduction, inference speed improvement, and faithfulness/factuality improvement of LLM's generation (1 paper under review, 1 paper in preparation) 
-
-<div style="color:red;">I'm looking for full-time research/applied scientist position - drop me a message if you have openings available!</div>
-
+My research interests are Natural Language Understanding and Generation, Faithfulness and Factual Correctness of the Generation, Unsupervised/Self-supervised Learning, and AI Applications. 
