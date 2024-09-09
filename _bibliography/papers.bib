@@ -36,6 +36,21 @@
     abstract={API call generation is the cornerstone of large language models' tool-using ability that provides access to the larger world. However, existing supervised and in-context learning approaches suffer from high training costs, poor data efficiency, and generated API calls that can be unfaithful to the API documentation and the user's request. To address these limitations, we propose an output-side optimization approach called FANTASE. Two of the unique contributions of FANTASE are its State-Tracked Constrained Decoding (SCD) and Reranking components. SCD dynamically incorporates appropriate API constraints in the form of Token Search Trie for efficient and guaranteed generation faithfulness with respect to the API documentation. The Reranking component efficiently brings in the supervised signal by leveraging a lightweight model as the discriminator to rerank the beam-searched candidate generations of the large language model. We demonstrate the superior performance of FANTASE in API call generation accuracy, inference efficiency, and context efficiency with DSTC8 and API Bank datasets.}
 }
 
+@misc{wang2024dhpbenchmarkllmsgood,
+      title={DHP Benchmark: Are LLMs Good NLG Evaluators?}, 
+      author={Yicheng Wang and Jiayi Yuan and Yu-Neng Chuang and Zhuoer Wang and Yingchi Liu and Mark Cusick and Param Kulkarni and Zhengping Ji and Yasser Ibrahim and Xia Hu},
+      year={2024},
+      eprint={2408.13704},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2408.13704},
+      abbr={arXiv},
+      arxiv={2408.13704},
+      selected={true},
+      bibtex_show={true},
+      abstract={Large Language Models (LLMs) are increasingly serving as evaluators in Natural Language Generation (NLG) tasks. However, the capabilities of LLMs in scoring NLG quality remain inadequately explored. Current studies depend on human assessments and simple metrics that fail to capture the discernment of LLMs across diverse NLG tasks. To address this gap, we propose the Discernment of Hierarchical Perturbation (DHP) benchmarking framework, which provides quantitative discernment scores for LLMs utilizing hierarchically perturbed text data and statistical tests to measure the NLG evaluation capabilities of LLMs systematically. We have re-established six evaluation datasets for this benchmark, covering four NLG tasks: Summarization, Story Completion, Question Answering, and Translation. Our comprehensive benchmarking of five major LLM series provides critical insight into their strengths and limitations as NLG evaluators.}
+}
+
 @inproceedings{wang-etal-2023-dmr,
     title = "Unsupervised Candidate Answer Extraction through Differentiable Masker-Reconstructor Model",
     author = "Wang, Zhuoer  and
