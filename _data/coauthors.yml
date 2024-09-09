@@ -26,9 +26,12 @@
     url: https://xing-zhao.github.io/
 
   - firstname: ["Xinyan"]
-  url: https://sites.google.com/umich.edu/xinyanzhao/home
+    url: https://sites.google.com/umich.edu/xinyanzhao/home
 
 "Wang":
+  - firstname: ["Yicheng"]
+    url: https://www.linkedin.com/in/yicheng-wang-b4b916167/
+
   - firstname: ["Jianling"]
     url: https://sites.google.com/view/jianlingwang
 
@@ -60,30 +63,30 @@
   - firstname: ["Alexandros"]
     url: https://sites.google.com/view/alex-papangelis/home
 
-"Shi"
+"Shi":
   - firstname: ["Taiwei"]
     url: https://maksimstw.github.io/
 
-"Yang"
+"Yang":
   - firstname: ["Longqi"]
     url: https://ylongqi.com/
 
-"Wan"
+"Wan":
   - firstname: ["Mengting"]
     url: https://mengtingwan.github.io/
 
-"Zhou"
+"Zhou":
   - firstname: ["Pei"]
     url: https://shaoxia57.github.io/
 
-"Neville"
+"Neville":
   - firstname: ["Jennifer"]
     url: https://jenneville.github.io/
 
-"Yuan"
+"Yuan":
   - firstname: ["Jiayi"]
     url: https://jy-yuan.github.io/
 
-"Chuang"
+"Chuang":
   - firstname: ["Yu-Neng"]
     url: https://ynchuang.github.io/
