@@ -18,13 +18,15 @@
   - firstname: ["Yun"]
     url: https://heyunh2015.github.io/yunhe.github.io/
   
-"He":
   - firstname: ["Zexue"]
     url: https://zexuehe.github.io/
 
 "Zhao":
   - firstname: ["Xing"]
     url: https://xing-zhao.github.io/
+
+  - firstname: ["Xinyan"]
+  url: https://sites.google.com/umich.edu/xinyanzhao/home
 
 "Wang":
   - firstname: ["Jianling"]
@@ -57,14 +59,6 @@
 "Papangelis":
   - firstname: ["Alexandros"]
     url: https://sites.google.com/view/alex-papangelis/home
-
-"Zhao":
-  - firstname: ["Xinyan"]
-    url: https://sites.google.com/umich.edu/xinyanzhao/home
-
-"Zhao":
-  - firstname: ["Xing"]
-    url: https://xing-zhao.github.io/
 
 "Shi"
   - firstname: ["Taiwei"]
