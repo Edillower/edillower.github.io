@@ -19,23 +19,6 @@
       abstract={As large language models (LLMs) continue to advance, aligning these models with human preferences has emerged as a critical challenge. Traditional alignment methods, relying on human or LLM annotated datasets, are limited by their resource-intensive nature, inherent subjectivity, and the risk of feedback loops that amplify model biases. To overcome these limitations, we introduce WildFeedback, a novel framework that leverages real-time, in-situ user interactions to create preference datasets that more accurately reflect authentic human values. WildFeedback operates through a three-step process: feedback signal identification, preference data construction, and user-guided evaluation. We applied this framework to a large corpus of user-LLM conversations, resulting in a rich preference dataset that reflects genuine user preferences. This dataset captures the nuances of user preferences by identifying and classifying feedback signals within natural conversations, thereby enabling the construction of more representative and context-sensitive alignment data. Our extensive experiments demonstrate that LLMs fine-tuned on WildFeedback exhibit significantly improved alignment with user preferences, as evidenced by both traditional benchmarks and our proposed user-guided evaluation. By incorporating real-time feedback from actual users, WildFeedback addresses the scalability, subjectivity, and bias challenges that plague existing approaches, marking a significant step toward developing LLMs that are more responsive to the diverse and evolving needs of their users. In summary, WildFeedback offers a robust, scalable solution for aligning LLMs with true human values, setting a new standard for the development and evaluation of user-centric language models.}
 }
 
-@misc{wang2024fantasticsequencesthemfaithful,
-    title={FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking}, 
-    author={Zhuoer Wang and Leonardo F. R. Ribeiro and Alexandros Papangelis and Rohan Mukherjee and Tzu-Yen Wang and Xinyan Zhao and Arijit Biswas and James Caverlee and Angeliki Metallinou},
-    year={2024},
-    eprint={2407.13945},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL},
-    url={https://arxiv.org/abs/2407.13945},
-    abbr={Preprint},
-    pdf={FANTASE.pdf},
-    arxiv={2407.13945},
-    slides={FANTASE-slides.pdf},
-    selected={true},
-    bibtex_show={true},
-    abstract={API call generation is the cornerstone of large language models' tool-using ability that provides access to the larger world. However, existing supervised and in-context learning approaches suffer from high training costs, poor data efficiency, and generated API calls that can be unfaithful to the API documentation and the user's request. To address these limitations, we propose an output-side optimization approach called FANTASE. Two of the unique contributions of FANTASE are its State-Tracked Constrained Decoding (SCD) and Reranking components. SCD dynamically incorporates appropriate API constraints in the form of Token Search Trie for efficient and guaranteed generation faithfulness with respect to the API documentation. The Reranking component efficiently brings in the supervised signal by leveraging a lightweight model as the discriminator to rerank the beam-searched candidate generations of the large language model. We demonstrate the superior performance of FANTASE in API call generation accuracy, inference efficiency, and context efficiency with DSTC8 and API Bank datasets.}
-}
-
 @misc{wang2024dhpbenchmarkllmsgood,
       title={DHP Benchmark: Are LLMs Good NLG Evaluators?}, 
       author={Yicheng Wang and Jiayi Yuan and Yu-Neng Chuang and Zhuoer Wang and Yingchi Liu and Mark Cusick and Param Kulkarni and Zhengping Ji and Yasser Ibrahim and Xia Hu},
@@ -49,6 +32,29 @@
       selected={true},
       bibtex_show={true},
       abstract={Large Language Models (LLMs) are increasingly serving as evaluators in Natural Language Generation (NLG) tasks. However, the capabilities of LLMs in scoring NLG quality remain inadequately explored. Current studies depend on human assessments and simple metrics that fail to capture the discernment of LLMs across diverse NLG tasks. To address this gap, we propose the Discernment of Hierarchical Perturbation (DHP) benchmarking framework, which provides quantitative discernment scores for LLMs utilizing hierarchically perturbed text data and statistical tests to measure the NLG evaluation capabilities of LLMs systematically. We have re-established six evaluation datasets for this benchmark, covering four NLG tasks: Summarization, Story Completion, Question Answering, and Translation. Our comprehensive benchmarking of five major LLM series provides critical insight into their strengths and limitations as NLG evaluators.}
+}
+
+@inproceedings{wang-etal-2024-fantase,
+    title={FANTAstic SEquences and Where to Find Them: Faithful and Efficient API Call Generation through State-tracked Constrained Decoding and Reranking}, 
+    author={Zhuoer Wang and Leonardo F. R. Ribeiro and Alexandros Papangelis and Rohan Mukherjee and Tzu-Yen Wang and Xinyan Zhao and Arijit Biswas and James Caverlee and Angeliki Metallinou},
+    year={2024},
+    month = nov,
+    year = "2024",
+    address = "Miami, United States",
+    publisher = "Association for Computational Linguistics",
+    eprint={2407.13945},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2407.13945},
+    abbr={EMNLP},
+    award={Findings},
+    pdf={FANTASE.pdf},
+    arxiv={2407.13945},
+    slides={FANTASE-slides.pdf},
+    selected={true},
+    bibtex_show={true},
+    abstract={API call generation is the cornerstone of large language models' tool-using ability that provides access to the larger world. However, existing supervised and in-context learning approaches suffer from high training costs, poor data efficiency, and generated API calls that can be unfaithful to the API documentation and the user's request. To address these limitations, we propose an output-side optimization approach called FANTASE. Two of the unique contributions of FANTASE are its State-Tracked Constrained Decoding (SCD) and Reranking components. SCD dynamically incorporates appropriate API constraints in the form of Token Search Trie for efficient and guaranteed generation faithfulness with respect to the API documentation. The Reranking component efficiently brings in the supervised signal by leveraging a lightweight model as the discriminator to rerank the beam-searched candidate generations of the large language model. We demonstrate the superior performance of FANTASE in API call generation accuracy, inference efficiency, and context efficiency with DSTC8 and API Bank datasets.},
+    bibtex_show={true}
 }
 
 @inproceedings{wang-etal-2023-dmr,
