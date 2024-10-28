@@ -12,7 +12,7 @@ inline: true
 
 <b>Applied Scientist</b> (Oct. 2024 - Present)
 
-Task-oriented large language models.
+Task-oriented large language models
 
 <br />
 <br />
@@ -21,7 +21,7 @@ Task-oriented large language models.
 
 <b>Research Intern</b> (May 2024 - Oct. 2024)
 
-Learning from User Feedback for Copilot Optimization
+WildFeedback: Aligning LLMs with In-situ User Interactions and Feedback
 
 Faithful User Response Simulation through Personalized and Controllable Generation
 
