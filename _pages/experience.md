@@ -8,9 +8,29 @@ nav_order: 3
 inline: true
 ---
 
+<h4>AWS Connect @ Amazon</h4>
+
+<b>Applied Scientist</b> (Oct. 2024 - Present)
+
+Task-oriented large language models.
+
+<br />
+<br />
+
+<h4>Office of Applied Research @ Microsoft</h4>
+
+<b>Research Intern</b> (May 2024 - Oct. 2024)
+
+Learning from User Feedback for Copilot Optimization
+
+Faithful User Response Simulation through Personalized and Controllable Generation
+
+<br />
+<br />
+
 <h4>InfoLab @ TAMU</h4>
 
-<b>Graduate Research Assistant</b> (Jan. 2020 - Present)
+<b>Graduate Research Assistant</b> (Jan. 2020 - May 2024)
 
 PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge
 
@@ -23,17 +43,6 @@ Howdy Y’all: An Alexa TaskBot
 Unsupervised Candidate Answer Extraction through Differentiable Masker-Reconstructor Model
 
 Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning
-
-<br />
-<br />
-
-<h4>Office of Applied Research @ Microsoft</h4>
-
-<b>Research Intern</b> (May 2024 - Present)
-
-Learning from User Feedback for Copilot Optimization
-
-Faithful User Response Simulation through Personalized and Controllable Generation
 
 <br />
 <br />
