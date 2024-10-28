@@ -7,8 +7,7 @@ profile:
   align: right
   image: prof_pic.jpg
   more_info: >
-    <p>Ph.D.</p>
-    <p>Seattle, WA</p>
+    <p>Ph.D. | Seattle, WA</p>
     <p>Email: wang at tamu.edu</p>
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
