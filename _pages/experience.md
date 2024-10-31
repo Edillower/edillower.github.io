@@ -12,7 +12,7 @@ inline: true
 
 <b>Applied Scientist</b> (Oct. 2024 - Present)
 
-Task-oriented large language models
+Task-oriented dialogue systems
 
 <br />
 <br />
