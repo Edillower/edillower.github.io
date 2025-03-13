@@ -32,17 +32,20 @@ Faithful User Response Simulation through Personalized and Controllable Generati
 
 <b>Graduate Research Assistant</b> (Jan. 2020 - May 2024)
 
-PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge
-
-Predicting the Reproducibility of Social and Behavioral Science Papers Using Supervised Learning Models
-
-RES: An Interpretable Replicability Estimation System for Research Publications
-
-Howdy Y’all: An Alexa TaskBot
+DHP Benchmark: Are LLMs Good NLG Evaluators?
 
 Unsupervised Candidate Answer Extraction through Differentiable Masker-Reconstructor Model
 
 Co^2PT: Mitigating Bias in Pre-trained Language Models through Counterfactual Contrastive Prompt Tuning
+
+Howdy Y’all: An Alexa TaskBot
+
+RES: An Interpretable Replicability Estimation System for Research Publications
+
+Predicting the Reproducibility of Social and Behavioral Science Papers Using Supervised Learning Models
+
+PARADE: A New Dataset for Paraphrase Identification Requiring Computer Science Domain Knowledge
+
 
 <br />
 <br />
