@@ -8,11 +8,11 @@ nav_order: 3
 inline: true
 ---
 
-<h4>AWS Connect @ Amazon</h4>
+<h4>AWS Applied AI Solutions @ Amazon</h4>
 
 <b>Applied Scientist</b> (Oct. 2024 - Present)
 
-Task-oriented dialogue systems
+Agentic and Preference-aligned LLMs for Task-oriented Dialogue Systems
 
 <br />
 <br />
