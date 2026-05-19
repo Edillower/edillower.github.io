@@ -38,6 +38,9 @@
   - firstname: ["Jianling"]
     url: https://sites.google.com/view/jianlingwang
 
+  - firstname: ["Hong"]
+    url: https://hongwang600.github.io/
+
 "Liu":
   - firstname: ["Haoran"]
     url: https://gloria-liu.github.io/
@@ -82,6 +85,9 @@
   - firstname: ["Pei"]
     url: https://shaoxia57.github.io/
 
+  - firstname: ["Yuqing"]
+    url: https://yuqing-zhou.github.io/
+
 "Neville":
   - firstname: ["Jennifer"]
     url: https://jenneville.github.io/
@@ -97,3 +103,7 @@
 "Chen":
   - firstname: ["Sihao"]
     url: https://sihaoc.github.io/
+
+"Koelle":
+  - firstname: ["Samson"]
+    url: https://sjkoelle.github.io/
