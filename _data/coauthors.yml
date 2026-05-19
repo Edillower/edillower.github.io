@@ -28,6 +28,9 @@
   - firstname: ["Xinyan"]
     url: https://sites.google.com/umich.edu/xinyanzhao/home
 
+  - firstname: ["Jieyu"]
+    url: https://jieyuz.net/
+
 "Wang":
   - firstname: ["Yicheng"]
     url: https://www.linkedin.com/in/yicheng-wang-b4b916167/
@@ -90,3 +93,7 @@
 "Chuang":
   - firstname: ["Yu-Neng"]
     url: https://ynchuang.github.io/
+
+"Chen":
+  - firstname: ["Sihao"]
+    url: https://sihaoc.github.io/
